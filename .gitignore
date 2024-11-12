@@ -1,3 +1,9 @@
+data/*rate.fits
+data/*log.txt
+data/jwst*_ext.*
+data/Recalibrate/*
+data/jw0*_s*fits
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
